@@ -1,0 +1,9 @@
+colored
+logging
+scapy
+paramiko
+ftplib
+python3-nmap 
+pywifi
+pandas
+faker

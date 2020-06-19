@@ -1,7 +1,8 @@
 # EvilNet
+
 ![EvilNet_attack](https://en.bloggif.com/tmp/b7842ddc57e867cf5a7f5332623d39e1/text.gif)
 
-[![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)](http://www.python.org/download/)
+[![Python 3.8](https://img.shields.io/badge/Python-3.8-blue.svg)](http://www.python.org/download/)
 
 
 ## install :
@@ -32,4 +33,5 @@ sudo pip3 install -r requirements.txt
 ![EvilNet_attack](https://github.com/Matrix07ksa/EvilNet/blob/master/evilnet/6.png?raw=true)
 
 
+## Twitter: https://twitter.com/matrix0700
 

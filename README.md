@@ -1,6 +1,6 @@
 # EvilNet
 
-![EvilNet_attack](https://en.bloggif.com/tmp/b7842ddc57e867cf5a7f5332623d39e1/text.gif)
+![EvilNet_attack](https://media.giphy.com/media/l3y1eeq2bAxeTIi2JA/giphy.gif)
 
 [![Python 3.8](https://img.shields.io/badge/Python-3.8-blue.svg)](http://www.python.org/download/)
 

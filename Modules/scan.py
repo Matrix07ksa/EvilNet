@@ -73,7 +73,6 @@ class nmap3_Scan() :
         self.Timing = Timing
         try : 
             print("Loading ........................................")
-            time.sleep(0.2)
             HOST_lib = nmap3.Nmap() 
             System=HOST_lib.nmap_os_detection(str(self.Host),args=f"-T{self.Timing} -vv")
             for i in System:
